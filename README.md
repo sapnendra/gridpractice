@@ -1,5 +1,5 @@
 
-# <Grid Designs Practice> - Design Contribution Guide
+# <Grid Designs Practice> - Grid Design Contribution Guide
 
 Welcome to the <Grid Designs Practice> grid project! We appreciate your interest in contributing to the visual aesthetics of our project. This guide will help you understand how to enhance the project by creating and incorporating designs using images located in the "img" directory.
 
